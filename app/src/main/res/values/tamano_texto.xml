@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tamaño">
+        <item>10dp</item>
+        <item>12dp</item>
+        <item>16dp</item>
+        <item>20dp</item>
+    </string-array>
+    <string-array name="tamañoInterno">
+        <item>10</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+</resources>
